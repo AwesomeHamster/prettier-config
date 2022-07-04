@@ -1,0 +1,12 @@
+{
+  "name": "@hamster-bot/prettier-config",
+  "version": "1.0.0",
+  "description": "Common Prettier configuration used in Hamster",
+  "main": "index.json",
+  "repository": "https://github.com/AwesomeHamster/prettier-config.git",
+  "author": {
+    "name": "Maiko Tan",
+    "email": "maiko.tan.coding@gmail.com"
+  },
+  "license": "None"
+}
