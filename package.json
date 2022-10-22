@@ -1,6 +1,6 @@
 {
   "name": "@hamster-bot/prettier-config",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Common Prettier configuration used in Hamster",
   "main": "index.json",
   "repository": "https://github.com/AwesomeHamster/prettier-config.git",
